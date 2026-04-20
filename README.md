@@ -7,14 +7,6 @@ Welcome to my professional portfolio! I am an **AI/ML Engineer** and **Full Stac
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend**: React (JSX), Next.js, Framer Motion, Tailwind CSS
-- **Backend**: FastAPI, Flask, Node.js, PHP
-- **AI/ML**: Python (PyTorch/TensorFlow), LangChain, Hugging Face, FAISS, Sentence-Transformers
-- **Database**: MySQL, MongoDB, Vector Stores
-
----
-
 
 ## 🛠️ Local Development
 
