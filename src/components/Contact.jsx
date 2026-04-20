@@ -89,7 +89,7 @@ export default function Contact() {
 
       <footer className="mt-20 border-t border-[#1F2937] pt-8 text-center px-4">
         <p className="text-[#9CA3AF] font-medium">
-          &copy; {new Date().getFullYear()} Rishika Arisetty. Designed & Built with Next.js & Tailwind.
+          &copy; {new Date().getFullYear()} Rishika Arisetty.
         </p>
       </footer>
     </section>
